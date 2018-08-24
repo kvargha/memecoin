@@ -12,20 +12,3 @@ The development of this coin was using Aqua's tutorial. https://www.youtube.com/
 
 Sincerely, The Memecoin developers.
 
-If you would like to support the development of Memecoin (MEME) please donate below! Thanks!
-
-BTC: 36qv4vXVcT7M1egWsdmK7FkVciB7mpi15A
-
-BCH: bitcoincash:ppmmqmfjt90rgwyt599p6hh6fhl0a9acuu5glhhhfk BCH: 3Cbsghjc9VobUgx7dmd2d3SjS4ciQ1H6sf
-
-BTG: ALfa5gkgZbJHXXUeyVVv1dgjLx1jc74Gga
-
-ETH: 0xa735c0f2e32e03c425be1a1b7f0d081ffd7e9acf
-
-DASH: 7SdYPiX3iawihYcmUMsHLa7PP5D3EivZEx
-
-ZEC: t3fzCC4UyFao8STYgL8evJTg68PHuRTN5KK
-
-XRP Address: rE1sdh25BJQ3qFwngiTBwaq3zPGGYcrjp1 Destination Tag: 53387
-
-XLM Address: GB3RMPTL47E4ULVANHBNCXSXM2ZA5JFY5ISDRERPCXNJUDEO73QFZUNK Meme.id: 7829310431218404
