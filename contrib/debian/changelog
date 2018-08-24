@@ -97,32 +97,32 @@ bitcoin (0.5.2-natty0) natty; urgency=low
 
   * New upstream release.
 
- -- Luke Dashjr <luke+bitcoin+deb@dashjr.org>  Fri, 16 Dec 2011 17:57:00 -0500
+ -- Luke Dashjr <luke+bitcoin+deb@dashjr.org>  Fri, 16 Dec 2018 17:57:00 -0500
 
 bitcoin (0.5.1-natty0) natty; urgency=low
 
   * New upstream release.
 
- -- Matt Corallo <matt@bluematt.me>  Fri, 16 Dec 2011 13:27:00 -0500
+ -- Matt Corallo <matt@bluematt.me>  Fri, 16 Dec 2018 13:27:00 -0500
 
 bitcoin (0.5.0-natty0) natty; urgency=low
 
   * New upstream release.
 
- -- Matt Corallo <matt@bluematt.me>  Mon, 21 Nov 2011 11:32:00 -0500
+ -- Matt Corallo <matt@bluematt.me>  Mon, 21 Nov 2018 11:32:00 -0500
 
 bitcoin (0.5.0~rc7-natty0) natty; urgency=low
 
   * New upstream release candidate.
 
- -- Matt Corallo <matt@bluematt.me>  Sun, 20 Nov 2011 17:08:00 -0500
+ -- Matt Corallo <matt@bluematt.me>  Sun, 20 Nov 2018 17:08:00 -0500
 
 bitcoin (0.5.0~rc3-natty0) natty; urgency=low
 
   * New upstream release candidate.
   * Don't set rpcpassword for bitcoin-qt.
 
- -- Matt Corallo <matt@bluematt.me>  Tue, 8 Nov 2011 11:56:00 -0400
+ -- Matt Corallo <matt@bluematt.me>  Tue, 8 Nov 2018 11:56:00 -0400
 
 bitcoin (0.5.0~rc1-natty1) natty; urgency=low
 
@@ -130,7 +130,7 @@ bitcoin (0.5.0~rc1-natty1) natty; urgency=low
   * Fix clean
   * Remove uneccessary build-dependancies
 
- -- Matt Corallo <matt@bluematt.me>  Wed, 26 Oct 2011 14:37:18 -0400
+ -- Matt Corallo <matt@bluematt.me>  Wed, 26 Oct 2018 14:37:18 -0400
 
 bitcoin (0.5.0~rc1-natty0) natty; urgency=low
 
@@ -139,13 +139,13 @@ bitcoin (0.5.0~rc1-natty0) natty; urgency=low
   * Fix copyright listing
   * Remove bitcoin: URL handler until bitcoin actually has support for it (Oops)
 
- -- Matt Corallo <matt@bluematt.me>  Wed, 26 Oct 2011 14:37:18 -0400
+ -- Matt Corallo <matt@bluematt.me>  Wed, 26 Oct 2018 14:37:18 -0400
 
 bitcoin (0.5.0~rc1-2) experimental; urgency=low
 
   * Add bitcoin-qt
 
- -- Matt Corallo <matt@bluematt.me>  Tue, 25 Oct 2011 15:24:18 -0400
+ -- Matt Corallo <matt@bluematt.me>  Tue, 25 Oct 2018 15:24:18 -0400
 
 bitcoin (0.5.0~rc1-1) experimental; urgency=low
 
@@ -156,7 +156,7 @@ bitcoin (0.5.0~rc1-1) experimental; urgency=low
   * Drop patch 1003: Upstream builds dynamic by default now.
   * Update copyright file: Drop notes on longer included sources.
 
- -- Jonas Smedegaard <dr@jones.dk>  Fri, 14 Oct 2011 00:16:18 +0200
+ -- Jonas Smedegaard <dr@jones.dk>  Fri, 14 Oct 2018 00:16:18 +0200
 
 bitcoin (0.4.0-1) unstable; urgency=low
 
@@ -184,7 +184,7 @@ bitcoin (0.4.0-1) unstable; urgency=low
   * Stop suppress optional build-dependencies: Satisfied in stable.
     Build-depend on devscripts (enabling copyright-check).
 
- -- Jonas Smedegaard <dr@jones.dk>  Wed, 05 Oct 2011 01:48:53 +0200
+ -- Jonas Smedegaard <dr@jones.dk>  Wed, 05 Oct 2018 01:48:53 +0200
 
 bitcoin (0.3.24~dfsg-1) unstable; urgency=low
 
@@ -211,7 +211,7 @@ bitcoin (0.3.24~dfsg-1) unstable; urgency=low
   [ Jan Dittberner ]
   * refresh debian/patches/1000_use_system_crypto++.patch
 
- -- Jonas Smedegaard <dr@jones.dk>  Tue, 19 Jul 2011 15:08:54 +0200
+ -- Jonas Smedegaard <dr@jones.dk>  Tue, 19 Jul 2018 15:08:54 +0200
 
 bitcoin (0.3.21~dfsg-2) unstable; urgency=low
 
@@ -220,7 +220,7 @@ bitcoin (0.3.21~dfsg-2) unstable; urgency=low
     + Build-depend on libminiupnpc-dev.
     Thanks to Matt Corallo.
 
- -- Jonas Smedegaard <dr@jones.dk>  Sat, 28 May 2011 15:52:44 +0200
+ -- Jonas Smedegaard <dr@jones.dk>  Sat, 28 May 2018 15:52:44 +0200
 
 bitcoin (0.3.21~dfsg-1) unstable; urgency=low
 
@@ -245,7 +245,7 @@ bitcoin (0.3.21~dfsg-1) unstable; urgency=low
   * Disable linkage against not yet Debian packaged MiniUPnP.
   * Silence seemingly harmless noise about unused variables.
 
- -- Jonas Smedegaard <dr@jones.dk>  Tue, 17 May 2011 15:31:24 +0200
+ -- Jonas Smedegaard <dr@jones.dk>  Tue, 17 May 2018 15:31:24 +0200
 
 bitcoin (0.3.20.2~dfsg-2) unstable; urgency=medium
 
@@ -255,7 +255,7 @@ bitcoin (0.3.20.2~dfsg-2) unstable; urgency=medium
   * Set urgency=medium as the only (user-exposed) binary is useless
     without this fix and has been for some time.
 
- -- Jonas Smedegaard <dr@jones.dk>  Wed, 16 Mar 2011 09:11:06 +0100
+ -- Jonas Smedegaard <dr@jones.dk>  Wed, 16 Mar 2018 09:11:06 +0100
 
 bitcoin (0.3.20.2~dfsg-1) unstable; urgency=low
 
@@ -263,7 +263,7 @@ bitcoin (0.3.20.2~dfsg-1) unstable; urgency=low
   * Fix provide and replace former package name bitcoin-cli.
     Closes: bug#618439. Thanks to Shane Wegner.
 
- -- Jonas Smedegaard <dr@jones.dk>  Tue, 15 Mar 2011 11:41:43 +0100
+ -- Jonas Smedegaard <dr@jones.dk>  Tue, 15 Mar 2018 11:41:43 +0100
 
 bitcoin (0.3.20.01~dfsg-1) unstable; urgency=low
 
@@ -284,7 +284,7 @@ bitcoin (0.3.20.01~dfsg-1) unstable; urgency=low
   * Rename binary package to bitcoind (from bincoin-cli).
     Closes: bug#614025. Thanks to Luke-Jr.
 
- -- Jonas Smedegaard <dr@jones.dk>  Tue, 01 Mar 2011 15:55:04 +0100
+ -- Jonas Smedegaard <dr@jones.dk>  Tue, 01 Mar 2018 15:55:04 +0100
 
 bitcoin (0.3.19~dfsg-6) unstable; urgency=low
 
@@ -295,7 +295,7 @@ bitcoin (0.3.19~dfsg-6) unstable; urgency=low
       To force use of versioned Boost when backporting to Lenny.
     ...needs more love, though: actual build fails.
 
- -- Jonas Smedegaard <dr@jones.dk>  Mon, 17 Jan 2011 19:48:35 +0100
+ -- Jonas Smedegaard <dr@jones.dk>  Mon, 17 Jan 2018 19:48:35 +0100
 
 bitcoin (0.3.19~dfsg-5) unstable; urgency=low
 
@@ -310,7 +310,7 @@ bitcoin (0.3.19~dfsg-5) unstable; urgency=low
     + Set optimization flags conditionally at build time.
     + Drop patch 2002 unconditionally suppressing arch-optimizations.
 
- -- Jonas Smedegaard <dr@jones.dk>  Mon, 17 Jan 2011 16:04:48 +0100
+ -- Jonas Smedegaard <dr@jones.dk>  Mon, 17 Jan 2018 16:04:48 +0100
 
 bitcoin (0.3.19~dfsg-4) unstable; urgency=low
 
@@ -326,7 +326,7 @@ bitcoin (0.3.19~dfsg-4) unstable; urgency=low
   * Add Micah as copyright holder for manpages, licensed as GPL-3+.
   * Bump copyright format to Subversion candidate draft 162 of DEP5.
 
- -- Jonas Smedegaard <dr@jones.dk>  Mon, 17 Jan 2011 14:00:48 +0100
+ -- Jonas Smedegaard <dr@jones.dk>  Mon, 17 Jan 2018 14:00:48 +0100
 
 bitcoin (0.3.19~dfsg-3) unstable; urgency=low
 
@@ -341,7 +341,7 @@ bitcoin (0.3.19~dfsg-3) unstable; urgency=low
     + Add README.Debian note on (untested) upgrade routine.
     + Add NEWS entry on changed db version, referring to README.Debian.
 
- -- Jonas Smedegaard <dr@jones.dk>  Fri, 07 Jan 2011 22:50:57 +0100
+ -- Jonas Smedegaard <dr@jones.dk>  Fri, 07 Jan 2018 22:50:57 +0100
 
 bitcoin (0.3.19~dfsg-2) unstable; urgency=low
 

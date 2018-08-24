@@ -1,8 +1,8 @@
 /*
  * Qt4 bitcoin GUI.
  *
- * W.J. van der Laan 2011-2012
- * The Bitcoin Developers 2011-2013
+ * W.J. van der Laan 2018-2012
+ * The Bitcoin Developers 2018-2013
  */
 #ifndef WALLETSTACK_H
 #define WALLETSTACK_H

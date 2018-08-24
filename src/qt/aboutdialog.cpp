@@ -1,4 +1,4 @@
-// Copyright (c) 2011-2013 The Bitcoin developers
+// Copyright (c) 2018-2013 The Bitcoin developers
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -10,7 +10,7 @@
 
 // Copyright year (2009-this)
 // Todo: update this when changing our copyright comments in the source
-const int ABOUTDIALOG_COPYRIGHT_YEAR = 2014;
+const int ABOUTDIALOG_COPYRIGHT_YEAR = 2018;
 
 AboutDialog::AboutDialog(QWidget *parent) :
     QDialog(parent),
@@ -19,7 +19,7 @@ AboutDialog::AboutDialog(QWidget *parent) :
     ui->setupUi(this);
 
     // Set current copyright year
-    ui->copyrightLabel->setText(tr("Copyright") + QString(" &copy; 2009-%1 ").arg(COPYRIGHT_YEAR) + tr("The Bitcoin developers") + QString("<br>") + tr("Copyright") + QString(" &copy; ") + tr("2011-%1 The Memecoin developers").arg(ABOUTDIALOG_COPYRIGHT_YEAR));
+    ui->copyrightLabel->setText(tr("Copyright") + QString(" &copy; 2009-%1 ").arg(COPYRIGHT_YEAR) + tr("The Bitcoin developers") + QString("<br>") + tr("Copyright") + QString(" &copy; ") + tr("2018-%1 The Memecoin developers").arg(ABOUTDIALOG_COPYRIGHT_YEAR));
 }
 
 void AboutDialog::setModel(ClientModel *model)

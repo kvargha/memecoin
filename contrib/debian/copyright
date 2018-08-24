@@ -20,8 +20,8 @@ Copyright: 1998, Todd C. Miller <Todd.Miller@courtesan.com>
 License: ISC
 
 Files: debian/*
-Copyright: 2010-2011, Jonas Smedegaard <dr@jones.dk>
-           2011, Matt Corallo <matt@bluematt.me>
+Copyright: 2010-2018, Jonas Smedegaard <dr@jones.dk>
+           2018, Matt Corallo <matt@bluematt.me>
 License: GPL-2+
 
 Files: debian/manpages/*
