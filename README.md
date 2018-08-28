@@ -8,7 +8,7 @@ I want to thank the Bitcoin and Litecoin developers for developing and maturing 
 
 All images for this coin can be found here: https://drive.google.com/drive/folders/17jU5lDwn6Ur07Yh9Gz-3IZbdX7Sm8prc Credits to: Ryoma Imperio
 
-The development of this coin was using Aqua's tutorial. https://www.youtube.com/user/aqua0frog/featured
+The development of this coin was done through Aqua's tutorial. https://www.youtube.com/user/aqua0frog/featured
 
 Sincerely, The Memecoin developers.
 
