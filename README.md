@@ -8,5 +8,7 @@ I want to thank the Bitcoin and Litecoin developers for developing and maturing 
 
 All images for this coin can be found here: https://drive.google.com/drive/folders/17jU5lDwn6Ur07Yh9Gz-3IZbdX7Sm8prc Credits to: Ryoma Imperio
 
+Max Supply: 10 million MEME.
+
 Sincerely, The Memecoin developers.
 
